@@ -1,1 +1,3 @@
-Verificar Exercícios 4, 5, 8, 9, 10 3 11.
+Exercícios 4, 5, 8, 9, 10 e *11 foram realizados em aula.
+
+*Por algum motivo o exercício 11 estava dando erro, então refiz esse exercício.

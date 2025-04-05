@@ -46,10 +46,10 @@ programa {
     real media = soma / 4
 
     se(media >= 5){
-    escreva("boa")}
+    escreva("Você passou no teste.")}
 
     senao {
-      escreva("aí n po kkkkk")}
+      escreva("Tente novamente.")}
 
 
     }
@@ -64,3 +64,15 @@ programa {
 
     
   
+
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 946; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
